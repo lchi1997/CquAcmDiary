@@ -5,6 +5,10 @@ https://blog.csdn.net/lajiniunai1 2018秋招面经
 * 2017-12 ACM退役
 * 2018-03-21 滴滴实习
 
+# 2018.08.31
+
+在学校补考完,谷歌接到二轮onsite过了的通知,贼开心,谷歌还剩俩流程一个Hiring Committee一个Team Match,倒是不担心Team Match 就怕挂在Hiring Committee,毕竟要我交一个成绩单上去((
+
 # 2018.08.28
 面完谷歌 等待结果 rp+++++++
 也算是面试告一段落 身心疲惫
@@ -19,7 +23,7 @@ https://blog.csdn.net/lajiniunai1 2018秋招面经
 - [x] 网易  面完了
 - [x] 拼多多 面完了 
 - [x] 京东金融 一面就挂了
-- [x] 谷歌 面试全部结束了
+- [x] 谷歌 面试全部结束了,Hiring Committee阶段
 - [ ] 滴滴 等待转正面试
 - [ ] airbnb
 - [ ] shopee
