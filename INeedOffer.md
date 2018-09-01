@@ -3,6 +3,9 @@
 	3. 断开: -FIN->,(<-DATA-)<-ACK<-(<-DATA-),<-FIN-,-ACK->
 	4. 客户端:-Closed->SYN+SEND->ESTABLISED->FIN_WAIT_1->FIN_WAIT_2->TIME_WAIT->Closed
 	5. 服务端:-LISTEN->SYN+RCVD->ESTABLISED->CLOSE_WAIT->LAST_ACK->CLOSE->LISTEN
+	6. SYN用于同步报文开始的序号
+
+2. TCP拥塞控制
 
 2.	[ok]汇编的4个段
 	3. 数据段 - DS
@@ -25,6 +28,10 @@
 2.	[ok]APUE中典型的C内存空间分布图：high: stack->...<-heap|bss|data|text :low
 
 3.	**地址高低等问题**
+
+2. 虚基类
+
+3. 当有虚函数和虚基类的时候类的内存结构是怎样的
 
 2.	**linux常用命令**
 	3. netstat 网络信息
@@ -49,12 +56,20 @@
 	9. 调用构造与析构函数
 	10. https://blog.csdn.net/lpwstr/article/details/79683859
 
+3.	堆和栈的区别
+
+3.	define const 区别
+
 3. [ok]结构体内存的对齐方式，为什么要对齐
-	4. **对齐数windows:8 linux:4** ----
+	4. 按最大的基本类型对齐
 	5. 平台原因：不是所有硬件都可以访问任意地址上的任意数据
 	6. 性能原因：访问未对齐的内存时，cpu需要两次内存访问，对齐的内存只需要一次，数据结构尤其是栈应该尽可能的在自然边界上对齐
 
 4.	分页分段
+
+3. http状态码
+
+3. http和https区别
 
 4. [ok]**c++多态的实现方式，虚函数的底层实现细节**
 	5. 虚函数，虚函数指针 //动态
@@ -161,7 +176,9 @@
 
 23. 协程的实现
 
-22. 中断与系统调用的区别
+22. API与系统调用的区别
+
+22. 中断，
 
 23. 多线程和多进程
 	25. 总线程数<=CPU数量：并行运行
