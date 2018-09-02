@@ -45,6 +45,7 @@
 	11. top cpu，内存占用率等
 	12. kill
 	13. free 内存使用情况
+14. comm 比较文件差异
 
 2. [ok]new与malloc异同
 	3.	都分配在堆
@@ -264,3 +265,5 @@
 38. 进程的状态转换图
 
 40. atomic
+
+41. Hive与mysql Hive 可以看成是从SQL到Map-Reduce的 映射器
