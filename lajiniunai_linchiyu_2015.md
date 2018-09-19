@@ -4,6 +4,10 @@ https://blog.csdn.net/lajiniunai1 2018秋招面经
 
 * 2017-12 ACM退役
 * 2018-03-21 滴滴实习
+
+# 2018.09.19
+突然快乐 接到谷歌电话通过了HC 秋招正式结束了（
+
 # 2018.09.12
 
 心痛 网易和拼多多都挂了 都被推荐转工程了 算法真难
@@ -27,7 +31,7 @@ https://blog.csdn.net/lajiniunai1 2018秋招面经
 - [x] 网易  面完了 挂了
 - [x] 拼多多 面完了 挂了
 - [x] 京东金融 一面就挂了
-- [x] 谷歌 面试全部结束了,Hiring Committee阶段
+- [x] 谷歌 HC通过 team match阶段
 - [ ] 滴滴 等待转正面试
 - [ ] airbnb
 - [ ] shopee
